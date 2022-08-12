@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pagina com abas</string>
+
+    <string name="aba_inscrevase">Inscreva-se</string>
+    <string name="aba_inicio">Inicio</string>
+    <string name="aba_videos">Vídeos</string>
+    <string name="hello_blank_fragment"> Esse é um novo fragmento em branco</string>
+</resources>
